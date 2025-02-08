@@ -1,0 +1,28 @@
+Date of rent:2024-06-01
+Time of rent:09:30
+Vehicle id:A3
+Battery level:96
+User passport:
+User personal id:ID19266
+Starting point:15,15
+Ending point:17,17
+Time of the ride:8
+Driving licence:DL22919
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:11340.0
+Date of rent:2024-06-02
+Time of rent:09:30
+Vehicle id:A3
+Battery level:78
+User passport:
+User personal id:ID45738
+Starting point:14,18
+Ending point:12,2
+Time of the ride:2
+Driving licence:DL39166
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:2835.0

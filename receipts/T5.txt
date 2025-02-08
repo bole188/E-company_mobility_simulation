@@ -1,0 +1,28 @@
+Date of rent:2024-06-01
+Time of rent:11:30
+Vehicle id:T5
+Battery level:86
+User passport:PP83449
+User personal id:
+Starting point:1,9
+Ending point:9,15
+Time of the ride:5
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:5985.0
+Date of rent:2024-06-03
+Time of rent:09:00
+Vehicle id:T5
+Battery level:82
+User passport:PP83511
+User personal id:
+Starting point:8,2
+Ending point:11,1
+Time of the ride:18
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:14158.8

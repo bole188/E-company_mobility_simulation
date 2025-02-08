@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="startingPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SpecialSceneController">
+   <children>
+      <Pane fx:id="buttonPane" layoutX="470.0" layoutY="100.0" prefHeight="200.0" prefWidth="106.0" />
+      <TableView fx:id="tableView" layoutX="14.0" layoutY="43.0" prefHeight="314.0" prefWidth="448.0">
+        <columns>
+          <TableColumn fx:id="id" prefWidth="75.0" text="id" />
+          <TableColumn fx:id="batteryLevel" prefWidth="75.0" text="baterija" />
+            <TableColumn fx:id="manufacturer" prefWidth="75.0" text="proizvodjac" />
+            <TableColumn fx:id="priceOfAcq" prefWidth="75.0" text="cijena nabavke" />
+            <TableColumn fx:id="model" prefWidth="75.0" text="model" />
+            <TableColumn fx:id="losses" prefWidth="75.0" text="gubici" />
+        </columns>
+      </TableView>
+   </children>
+</Pane>

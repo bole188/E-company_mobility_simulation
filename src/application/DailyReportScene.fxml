@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="startingPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="520.0" prefWidth="766.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.DailyReportSceneController">
+   <children>
+      <TableView fx:id="tableView" layoutX="14.0" layoutY="14.0" prefHeight="347.0" prefWidth="733.0">
+        <columns>
+          <TableColumn fx:id="date" prefWidth="75.0" text="datum" />
+          <TableColumn fx:id="income" prefWidth="88.79998779296875" text="ukupan prihod" />
+            <TableColumn fx:id="discount" prefWidth="102.40003967285156" text="ukupan popust" />
+            <TableColumn fx:id="promoDiscount" prefWidth="72.79998779296875" text="ukupno promocije" />
+            <TableColumn fx:id="incomeFromDT" prefWidth="110.4000244140625" text="prihod u centru" />
+            <TableColumn fx:id="incomeFromOS" prefWidth="89.5999755859375" text="prihod van centra" />
+            <TableColumn fx:id="maintenance" prefWidth="84.79998779296875" text="troskovi odrzavanja" />
+            <TableColumn fx:id="repair" prefWidth="106.60003662109375" text="troskovi popravki" />
+        </columns>
+      </TableView>
+      <Pane fx:id="buttonPane" layoutX="281.0" layoutY="374.0" prefHeight="48.0" prefWidth="200.0" />
+   </children>
+</Pane>

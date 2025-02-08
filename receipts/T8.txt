@@ -1,0 +1,14 @@
+Date of rent:2024-06-02
+Time of rent:11:30
+Vehicle id:T8
+Battery level:84
+User passport:PP26732
+User personal id:
+Starting point:9,2
+Ending point:3,12
+Time of the ride:4
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:4788.0

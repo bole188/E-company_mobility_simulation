@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="startingPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="320.0" prefWidth="526.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.BreakdownSceneController">
+   <children>
+      <TableView fx:id="tableView" layoutX="14.0" layoutY="31.0" prefHeight="243.0" prefWidth="293.0">
+        <columns>
+          <TableColumn fx:id="type" prefWidth="75.0" text="vrsta" />
+          <TableColumn fx:id="id" prefWidth="75.0" text="id" />
+            <TableColumn fx:id="dateAndTime" prefWidth="75.0" text="vrijeme kvara" />
+            <TableColumn fx:id="description" prefWidth="75.0" text="opis kvara" />
+        </columns>
+      </TableView>
+      <Pane fx:id="buttonPane" layoutX="321.0" layoutY="117.0" prefHeight="87.0" prefWidth="161.0" />
+   </children>
+</Pane>

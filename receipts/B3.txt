@@ -1,0 +1,14 @@
+Date of rent:2024-06-03
+Time of rent:10:00
+Vehicle id:B3
+Battery level:85
+User passport:
+User personal id:ID63196
+Starting point:16,4
+Ending point:16,19
+Time of the ride:12
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:11340.0

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="501.0" prefWidth="775.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.BikeSceneController" fx:id = "startingPane" >
+   <children>
+      <TableView fx:id="tableView" layoutX="12.0" layoutY="14.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="751.0">
+         <columns>
+            <TableColumn fx:id ="id" prefWidth="75.0" text="id" />
+            <TableColumn fx:id ="price" prefWidth="75.0" text="cijena" />
+            <TableColumn fx:id ="model" prefWidth="75.0" text="model" />
+            <TableColumn fx:id ="batteryLevel" prefWidth="75.0" text="baterija" />
+            <TableColumn fx:id ="manufacturer" prefWidth="75.0" text="proizvodjac" />
+            <TableColumn fx:id ="reach" prefWidth="75.0" text="domet sa jednim punjenjem" />
+         </columns>
+      </TableView>
+      <Pane fx:id="buttonPane" layoutX="288.0" layoutY="430.0" prefHeight="49.0" prefWidth="200.0" />
+   </children>
+</Pane>

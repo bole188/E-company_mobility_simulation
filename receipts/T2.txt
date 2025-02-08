@@ -1,0 +1,70 @@
+Date of rent:2024-06-01
+Time of rent:09:00
+Vehicle id:T2
+Battery level:85
+User passport:
+User personal id:ID72182
+Starting point:2,8
+Ending point:9,16
+Time of the ride:6
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:7182.0
+Date of rent:2024-06-02
+Time of rent:13:00
+Vehicle id:T2
+Battery level:67
+User passport:
+User personal id:ID35234
+Starting point:7,1
+Ending point:3,15
+Time of the ride:6
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:5985.0
+Date of rent:2024-06-03
+Time of rent:09:30
+Vehicle id:T2
+Battery level:52
+User passport:PP74811
+User personal id:
+Starting point:1,1
+Ending point:11,6
+Time of the ride:17
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:20349.0
+Date of rent:2024-06-03
+Time of rent:10:00
+Vehicle id:T2
+Battery level:42
+User passport:PP67094
+User personal id:
+Starting point:2,9
+Ending point:11,8
+Time of the ride:13
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:15561.0
+Date of rent:2024-06-03
+Time of rent:13:00
+Vehicle id:T2
+Battery level:34
+User passport:PP59101
+User personal id:
+Starting point:9,1
+Ending point:11,7
+Time of the ride:11
+Driving licence:
+Discount:10
+Promotion discount:15
+Is broken:false
+Price to be paid:8652.6
